@@ -1,0 +1,35 @@
+.main-sidebar{
+    padding: 0 !important;
+    margin: 0 !important;
+    background-color:#fff;
+    border-right: 1px solid #d1d1dd;
+    box-shadow: 0 2px 3px #00649c;
+}
+.sidebar{
+    padding: 0 !important;
+}
+.sidebar .nav-link{
+    color: #000 !important;
+}
+.slidebar-top{
+    text-align: center;
+    padding-top: 20px;
+}
+.slidebar-top h4{
+    font-weight:700;
+}
+.slidebar-top img{
+    width: 100%;
+    border-radius: 20px;
+}
+.nav{
+    text-align: center;
+}
+.nav .nav-link{
+    font-size: 20px !important;
+    font-weight: 600;
+}
+.nav .nav-link:hover{
+    color: #00649c;
+}
+
